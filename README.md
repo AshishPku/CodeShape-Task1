@@ -5,6 +5,7 @@ HTML URL - https://wonderful-flower-0e9f2051e.6.azurestaticapps.net
 # Step 2: Object Storage Configuration
 
 cloud storage public URL - https://publicstorageakp.blob.core.windows.net/container1/codeshapeitsolution_logo.jpeg
+
 cloud storage public URL - https://publicstorageakp.blob.core.windows.net/container1/Task1.pdf
 
 # Step 3: Basic Networking
